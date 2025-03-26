@@ -1,0 +1,1 @@
+export { Pokemons as default } from "./Pokemons.tsx";

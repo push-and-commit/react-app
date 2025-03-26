@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Paris",
+    "key": "paris",
+    "country": "France",
+    "population": 2211000
+  },
+  {
+    "name": "New York",
+    "key": "new_york",
+    "country": "USA",
+    "population": 8419000
+  },
+  {
+    "name": "Tokyo",
+    "key": "tokyo",
+    "country": "Japan",
+    "population": 13929000
+  },
+  {
+    "name": "London",
+    "key": "london",
+    "country": "UK",
+    "population": 8982000
+  },
+  {
+    "name": "Berlin",
+    "key": "berlin",
+    "country": "Germany",
+    "population": 3645000
+  },
+  {
+    "name": "Sydney",
+    "key": "sydney",
+    "country": "Australia",
+    "population": 5312000
+  },
+  {
+    "name": "Toronto",
+    "key": "toronto",
+    "country": "Canada",
+    "population": 2930000
+  },
+  {
+    "name": "Moscow",
+    "key": "moscow",
+    "country": "Russia",
+    "population": 11920000
+  },
+  {
+    "name": "Beijing",
+    "key": "beijing",
+    "country": "China",
+    "population": 21540000
+  },
+  {
+    "name": "Mumbai",
+    "key": "mumbai",
+    "country": "India",
+    "population": 20411000
+  },
+  {
+    "name": "São Paulo",
+    "key": "sao_paulo",
+    "country": "Brazil",
+    "population": 12330000
+  }
+]
