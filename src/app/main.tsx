@@ -10,6 +10,7 @@ import PrepareForTest from "@pages/PrepareForTest.tsx";
 import Layout from "./Layout.tsx";
 
 async function enableMocking() {
+    // @ts-expect-error file is good but not found by IDE
     const { worker } = await import("../mocks/browser");
     return worker.start();
 }
